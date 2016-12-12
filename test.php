@@ -12,6 +12,6 @@ class Test{
 	}
 
 	private function xiaoming(){
-
+		echo 'wo shi xiaoming', PHP_EOL;
 	}
 }
