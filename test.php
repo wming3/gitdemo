@@ -10,4 +10,8 @@ class Test{
 	public function run(){
 		echo 'wo cao', PHP_EOL;
 	}
+
+	private function xiaoming(){
+
+	}
 }
