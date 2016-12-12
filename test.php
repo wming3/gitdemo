@@ -14,4 +14,8 @@ class Test{
 	private function xiaoming(){
 
 	}
+
+    private function xiaohong(){
+    
+    }
 }
